@@ -1,7 +1,16 @@
 h1 {
     padding: 100px 0;
     font: 44px "Arial";
+    
     text-align: center;
+    font-weight: 400;
+    text-decoration: #f78120 underline wavy;
+    letter-spacing: 15px;
+
+}
+
+a {
+    text-decoration: none;
 }
 
 h2, h3, h4, h5, h6 {
@@ -11,6 +20,8 @@ h2, h3, h4, h5, h6 {
 }
 
 p {
+    line-height: 2;
+    
     color:gray;
     padding: 100px 0;
     font: 44px "Arial";
