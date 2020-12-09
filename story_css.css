@@ -1,0 +1,18 @@
+h1 {
+    padding: 100px 0;
+    font: 44px "Arial";
+    text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+    padding: 100px 0;
+    font: 44px "Arial";
+    text-align: center;
+}
+
+p {
+    color:gray;
+    padding: 100px 0;
+    font: 44px "Arial";
+    text-align: center;
+}
